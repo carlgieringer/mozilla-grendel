@@ -1,0 +1,24 @@
+/BriefHeaderFormatter.java/1.1/Wed Sep  9 00:50:54 1998//
+/FullHeaderFormatter.java/1.1/Wed Sep  9 00:50:55 1998//
+/HeaderFormatter.java/1.1/Wed Sep  9 00:50:55 1998//
+/Makefile/1.1/Wed Sep  9 00:50:55 1998//
+/MimeContainerOperator.java/1.1/Wed Sep  9 00:50:55 1998//
+/MimeExternalBodyOperator.java/1.1/Wed Sep  9 00:50:56 1998//
+/MimeExternalObjectOperator.java/1.2/Sun Apr 18 23:49:04 1999//
+/MimeHTMLOperator.java/1.1/Wed Sep  9 00:50:56 1998//
+/MimeHTMLOperatorFactory.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeLeafOperator.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeMessageOperator.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeMultipartAlternativeOperator.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeMultipartAppleDoubleOperator.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeMultipartRelatedOperator.java/1.1/Wed Sep  9 00:50:57 1998//
+/MimeMultipartSignedOperator.java/1.1/Wed Sep  9 00:50:58 1998//
+/MimeTextEnrichedOperator.java/1.1/Wed Sep  9 00:50:58 1998//
+/MimeTextHTMLOperator.java/1.1/Wed Sep  9 00:50:58 1998//
+/MimeTextOperator.java/1.1/Wed Sep  9 00:50:58 1998//
+/MimeTextRichtextOperator.java/1.1/Wed Sep  9 00:50:58 1998//
+/MimeTextVCardOperator.java/1.1/Wed Sep  9 00:50:59 1998//
+/NormalHeaderFormatter.java/1.1/Wed Sep  9 00:50:59 1998//
+/README/1.1/Wed Sep  9 00:50:59 1998//
+/TextHTMLConverter.java/1.1/Wed Sep  9 00:50:59 1998//
+D

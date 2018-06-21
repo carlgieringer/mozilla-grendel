@@ -1,0 +1,16 @@
+/DnDConstants.java/1.1/Wed Sep  9 00:50:18 1998//
+/DragSource.java/1.1/Wed Sep  9 00:50:18 1998//
+/DragSourceContext.java/1.4/Sun Mar  7 01:18:38 1999//
+/DragSourceDragEvent.java/1.1/Wed Sep  9 00:50:19 1998//
+/DragSourceDropEvent.java/1.1/Wed Sep  9 00:50:19 1998//
+/DragSourceListener.java/1.1/Wed Sep  9 00:50:19 1998//
+/DropTarget.java/1.1/Wed Sep  9 00:50:20 1998//
+/DropTargetComponent.java/1.3/Sun Mar  7 01:18:38 1999//
+/DropTargetContext.java/1.3/Sun Mar  7 01:18:38 1999//
+/DropTargetDragEvent.java/1.1/Wed Sep  9 00:50:20 1998//
+/DropTargetDropEvent.java/1.1/Wed Sep  9 00:50:21 1998//
+/DropTargetEvent.java/1.1/Wed Sep  9 00:50:21 1998//
+/DropTargetListener.java/1.1/Wed Sep  9 00:50:21 1998//
+/InvalidDnDOperationException.java/1.1/Wed Sep  9 00:50:21 1998//
+/Makefile/1.1/Wed Sep  9 00:50:22 1998//
+D
